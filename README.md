@@ -4,16 +4,18 @@
 ---
 
 <h2> # About Me</h2>
-<p>👨‍💻 <b>Languages:</b> Swift, PHP (Laravel)...</p>
-<p>📖 <b>Learning:</b> Kotlin</p>
-<p>🕹 <b>Hobbies:</b> Gaming, </p>
+<p>👨‍💻 <b>Languages:</b> JavaScript, PHP (Laravel)...</p>
+<p>📖 <b>Learning:</b> Vue</p>
+<p>🕹 <b>Hobbies:</b> Gaming... </p>
 
 
 ---
 
 <h2> # I write...</h2>
+<!--
 <p><img width="25" alt="iOS" src="https://cdn.worldvectorlogo.com/logos/apple.svg">  apps with  <img width="30" alt="Swift" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/></p>
 <p><img width="30" alt="Android" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">  apps with  <img width="25" alt="Kotlin" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"/></p>
+-->
 <p><img width="35" alt="PHP" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"/>  with  <img width="25" alt="Laravel" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/> <img width="60" alt="Laravel" src="https://cdn.worldvectorlogo.com/logos/laravel-wordmark-1.svg"/></p>
 
 <h2> # I use...</h2>
